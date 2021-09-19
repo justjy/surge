@@ -1,0 +1,6 @@
+#!name=Web Dashboard
+#!desc=Turn on HTTP Web Dashboard accessible at http://[your Surge IP]:6166
+
+[General]
+http-api = justjy@0.0.0.0:6166
+http-api-web-dashboard = true
