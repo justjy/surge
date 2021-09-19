@@ -1,0 +1,5 @@
+#!name=DNSPod Public DNS
+#!desc=Only use DNSPod Public DNS (Owned by Tencent)
+
+[General]
+dns-server = 119.29.29.29
