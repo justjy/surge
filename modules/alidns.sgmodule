@@ -1,0 +1,5 @@
+#!name=Ali DNS
+#!desc=Use Alibaba Public DNS Server
+
+[General]
+dns-server = 223.5.5.5, 223.6.6.6
