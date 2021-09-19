@@ -1,0 +1,5 @@
+#!name=HTTP API
+#!desc=Enable HTTP API
+
+[General]
+http-api =justjy@0.0.0.0:6166
