@@ -1,0 +1,5 @@
+#!name=Google DNS
+#!desc=Only use Google DNS server
+
+[General]
+dns-server = 8.8.8.8, 8.8.4.4
